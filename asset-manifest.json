@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KarVarr/MovieApp/static/css/main.334bdeb1.css",
-    "main.js": "/KarVarr/MovieApp/static/js/main.7fe29e0f.js",
-    "index.html": "/KarVarr/MovieApp/index.html",
-    "static/media/search.svg": "/KarVarr/MovieApp/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
-    "main.334bdeb1.css.map": "/KarVarr/MovieApp/static/css/main.334bdeb1.css.map",
-    "main.7fe29e0f.js.map": "/KarVarr/MovieApp/static/js/main.7fe29e0f.js.map"
+    "main.css": "/MovieApp/static/css/main.334bdeb1.css",
+    "main.js": "/MovieApp/static/js/main.3a3f2ae0.js",
+    "index.html": "/MovieApp/index.html",
+    "static/media/search.svg": "/MovieApp/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.334bdeb1.css.map": "/MovieApp/static/css/main.334bdeb1.css.map",
+    "main.3a3f2ae0.js.map": "/MovieApp/static/js/main.3a3f2ae0.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.7fe29e0f.js"
+    "static/js/main.3a3f2ae0.js"
   ]
 }
